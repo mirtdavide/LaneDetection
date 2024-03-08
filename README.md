@@ -1,6 +1,6 @@
 # Lane Detection
 
-## Small description of this repository content
+## Small description of this repo content
 Hi!<br>
 So, this is a small computer vision project made in python using opencv and numpy that takes in a video file that could be your car camera and
 tries to track the edges of the lane you are currently in.</br>
